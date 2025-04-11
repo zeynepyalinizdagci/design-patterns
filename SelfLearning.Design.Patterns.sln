@@ -1,8 +1,28 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Patterns", "Creational.Patterns\Creational.Patterns.csproj", "{0A4FD1F6-EC9A-4397-BDF9-236A738F9A16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Patterns", "Behavioral.Patterns\Behavioral.Patterns.csproj", "{B06CE5D2-B87C-4D5D-BF9B-6F6F1AA955AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Patterns", "Structural.Patterns\Structural.Patterns.csproj", "{D3660A40-3160-46A2-BEB6-B0DA70743DAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4FD1F6-EC9A-4397-BDF9-236A738F9A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4FD1F6-EC9A-4397-BDF9-236A738F9A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4FD1F6-EC9A-4397-BDF9-236A738F9A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4FD1F6-EC9A-4397-BDF9-236A738F9A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06CE5D2-B87C-4D5D-BF9B-6F6F1AA955AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06CE5D2-B87C-4D5D-BF9B-6F6F1AA955AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06CE5D2-B87C-4D5D-BF9B-6F6F1AA955AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06CE5D2-B87C-4D5D-BF9B-6F6F1AA955AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3660A40-3160-46A2-BEB6-B0DA70743DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3660A40-3160-46A2-BEB6-B0DA70743DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3660A40-3160-46A2-BEB6-B0DA70743DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3660A40-3160-46A2-BEB6-B0DA70743DAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
