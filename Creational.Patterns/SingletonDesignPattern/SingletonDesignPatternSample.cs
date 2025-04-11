@@ -1,4 +1,4 @@
-namespace Behavioral.Patterns.SingletonDesignPattern;
+namespace Creational.Patterns.SingletonDesignPattern;
 
 public sealed class SingletonDesignPatternSample
 {
